@@ -1,4 +1,3 @@
-
 ; Alumno: Alex Salinas Valarezo
 ; Programa: Detector de aprobado o suspenso
 ; Descripcion: Comprueba si un alumno ha aprobado segun su nota.
